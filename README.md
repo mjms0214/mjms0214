@@ -1,4 +1,21 @@
-## 📚 MAIN STACK 📚
+### 🏫 Major
+<hr>
+<ul>
+    <li>Sookmyung Women's University</li>
+    <ul>
+        <li>IT ENGINEERING( Current: DIVISION OF ARTIFICIAL INTELLIGENCE ENGINEERING )</li>
+        <li>DEPARTMENT OF STATISTICS</li>
+    </ul>
+</ul>
+
+### 💻 Activities
+<hr>
+<div>
+    comming Soom..
+</div>
+
+
+### 📚 MAIN STACK 📚
 <hr>
 <b>Language</b>
 <div>
@@ -28,7 +45,7 @@
 
 
 
-## ✏️ Once I've used
+### ✏️ Once I've used
 <hr>
 <b>Language</b>
 <div>
@@ -66,7 +83,7 @@
 
 <h3 align="center">📞 Contact 📞</h3>
 <p align="center">
-  <a href="mailto:mjms02140@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="mailto:mjms02140@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mjms02140@sookmyung.ac.kr"/></a>
 </p>
 
 <!--
