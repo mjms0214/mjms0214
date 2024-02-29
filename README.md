@@ -11,7 +11,7 @@
 ### 💻 Activities
 <hr>
 <div>
-    comming Soom..
+    comming Soon..
 </div>
 
 
