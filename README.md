@@ -11,7 +11,9 @@
 ### 💻 Activities
 <hr>
 <div>
-    comming Soon..
+    Sookmyung Women's University Central Club SOLUX 26th-27th(21.03-22.08)
+   🔗 https://sm-solux.dev/
+    (21.09-22.05)
 </div>
 
 
