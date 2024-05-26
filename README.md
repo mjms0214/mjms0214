@@ -21,7 +21,7 @@
 <hr>
 <div>
     <li>PABLO AIR Team PICASSO(팀피카소)-Platform Team(플랫폼팀)-Intern (22.07-22.12)</li>
-    <li>PABLO AIR Technology Headquarters(기술본부)-Platform Part(플랫폼파트)-Intern (23.09-22.12)</li>
+    <li>PABLO AIR Technology Headquarters(기술본부)-Platform Part(플랫폼파트)-Intern (23.09-23.12)</li>
     &nbsp;&nbsp;🔗 https://pabloair.com/main/main.html<br>
 </div>
 
