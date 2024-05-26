@@ -11,13 +11,21 @@
 ### 💻 Activities
 <hr>
 <div>
-    Sookmyung Women's University Central Club SOLUX 26th-27th(21.03-22.08)
-   🔗 https://sm-solux.dev/
-    (21.09-22.05)
+    <li>Sookmyung Women's University Central Club SOLUX 26th-27th(21.03-22.08)</li>
+    &nbsp;&nbsp;🔗 https://sm-solux.dev/<br>
+    <li>KUSITMS 24th-25th(21.09-22.05)</li>
+    &nbsp;&nbsp;🔗 https://www.kusitms.com/
 </div>
 
+### 💪Worked In
+<hr>
+<div>
+    <li>PABLO AIR Team PICASSO(팀피카소)-Platform Team(플랫폼팀)-Intern (22.07-22.12)</li>
+    <li>PABLO AIR Technology Headquarters(기술본부)-Platform Part(플랫폼파트)-Intern (23.09-22.12)</li>
+    &nbsp;&nbsp;🔗 https://pabloair.com/main/main.html<br>
+</div>
 
-### 📚 MAIN STACK 📚
+### 📚 Main Stack 📚
 <hr>
 <b>Language</b>
 <div>
