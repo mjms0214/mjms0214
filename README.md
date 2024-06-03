@@ -25,6 +25,12 @@
     &nbsp;&nbsp;🔗 https://pabloair.com/main/main.html<br>
 </div>
 
+### 🔗Velog
+<hr>
+<div>
+    https://velog.io/@mjms0214/posts
+</div>
+
 ### 📚 Main Stack 📚
 <hr>
 <b>Language</b>
