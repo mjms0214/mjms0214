@@ -23,8 +23,10 @@
     <li>PABLO AIR Team PICASSO(팀피카소)-Platform Team(플랫폼팀)-Intern (22.07-22.12)</li>
     <li>PABLO AIR Technology Headquarters(기술본부)-Platform Part(플랫폼파트)-Intern (23.09-23.12)</li>
     &nbsp;&nbsp;🔗 https://pabloair.com/main/main.html<br>
-    <li>LogisValley 시스템개발팀-사원(24.08~)</li>
+    <li>LogisValley 시스템개발팀-사원(24.08~25.12)</li>
     &nbsp;&nbsp;🔗http://www.logisvalley.com/<br>
+    <li>HTNS 시스템개발팀-사원(26.01~)</li>
+    &nbsp;&nbsp;🔗https://www.htns.com/business/it_system.php<br>
 </div>
 
 ### 🔗Velog
@@ -46,6 +48,7 @@
 </div>
 <b>DataBase</b>
 <div>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 </div>
 <b>Development Tools</b>
@@ -97,6 +100,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white">
 </div>
 
 <h3 align="center">📞 Contact 📞</h3>
